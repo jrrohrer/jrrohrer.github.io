@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Project Part 2: TakeoutFinder "
-date:       2020-11-29 20:00:04 +0000
+date:       2020-11-29 15:00:05 -0500
 permalink:  cli_data_gem_project_part_2_takeoutfinder
 ---
 
@@ -45,7 +45,7 @@ The Category class uses a method just like one in an earlier lab to return a lis
 def restaurants
         # creates array of restaurant objects with a category that matches the category instance.
         TakeoutFinder::Restaurant.all.select {|restaurant| restaurant.category == self.name}
-    end
+end
 ```
 
 Self in this method refers to the individual instance of Category. Maybe someone wants pizza. This method would return all the restaurants which have a category of "pizza". So self.name in this instance is "pizza". 
