@@ -21,6 +21,8 @@ After getting all of the initial setup for the gem done, I was finally able to l
 8.     User is given details for that restaurant (name, location, phone number, description)
 9.     User is asked if they are done or if they want to start over. If done - exit, if start over - begin program again.
 
+[Click here for the flow chart.](https://drive.google.com/file/d/1_1dVGuF77mXSKIldd9_1agTrj4FksGUq/view?usp=sharing)
+
 At any point, if the user types "exit" as a response to a prompt, the program will end. If they misspell a city name or enter an invalid state code, they will get a custom error that asks them to check their spelling and exits the program so they can start again. 
 
 Initially, I was going to scrape just one city for restaurant suggestions, but decided that would give my program kind of a narrow focus. There is a #query method in the CLI class that greets the user and asks for two inputs: city and state. These inputs are stored as local variables and then used as arguements for the call to the Scraper class, which is instantiated with state and city arguements that get concatenated into the URL to be scraped. This allows the user to search any city for takeout. The previously mentioned custom error is also part of this #query method. Once the user enters their information, a new scraper is instantiated. This scrapes the website, then creates the Category and Restaurant objects. 
