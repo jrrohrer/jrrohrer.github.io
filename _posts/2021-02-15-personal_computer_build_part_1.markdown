@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Personal Computer Build: Part 1"
-date:       2021-02-15 20:41:04 +0000
+date:       2021-02-15 15:41:05 -0500
 permalink:  personal_computer_build_part_1
 ---
 
