@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Personal Computer Build, Part 2: Assembly"
-date:       2021-02-23 17:33:47 +0000
+date:       2021-02-23 12:33:48 -0500
 permalink:  personal_computer_build_part_2_assembly
 ---
 
@@ -23,6 +23,6 @@ With all of the front panel connectors, USB connectors, fan connectors, and powe
 
 ![](https://lh3.googleusercontent.com/l6HRx5jB477xZKqkyWelrxVyIar6s_CEdVy9IgXAghRH-vALGFB2-hHIUqBnTG_YfE5vusS-NufyhY7PGfOwBAsTZU8J8JLAIcusfl2t-RX7_93GxXY3zgTXTLkjh5BpXvJnAPP37Lc22S5H18dr1Q6TcWc8epP7J-nc-tnh3D731CUJywnwoSg48ruEQ9gX2zbhl_0-4Q-LkYUJdf8dnsgmeEXwQ240LpJT3CIv8FMFAzBVH_d4rWHiTXbzAo6bEo2ipGgiR2jvXzameLMu9Z7hQHbUi8Y-XcbJv1AVYz9jkCCCwjCvM4R2UjxNv91-hFzCSQjt4D3E7kGH1HXhU8jAwfMRW8gno0eWClHGYpfhIHIbrTDw28i9GsP6cvYw_fRwLzC4ded7iL76WY0xX5ciptVRFLePudqvs7l4beoEwoo0CvLAoTsaxxZmk2zYJNQZKkgzlncFEeU6lqmdV7cnREzCUFO4npK2EAxWta-GX1wI_lKaa_8WrgdLtaAvnvHDhSp5X4G3g5o6VxzPcImQmX4-x5soxrTNP0EcDEm5BDRbkpT9psq7Zi41T_odlffQyFB-dlNqSZYMCfM6VoFzfWMDqVvB9U3ZB-6pi8UpXUxeacC6j1eh0JYKRVRgO4qDxhdd3_dS0zxYmsCA3jDVk4wk6sOu1rb4MOj5S9mhjlB1gpc_gckNSo_gLS8=w734-h978-no?authuser=0)
 
-Finally, it was time to re-assemble the case and power everyhing on. My diligent research paid off, because power-up worked on the first try! Now to get an OS installed and configured. But that's a post for another day. Stay tuned for part 3!
+Finally, it was time to re-assemble the case and power everyhing on. My diligent research paid off, because power-up worked on the first try. The only other hardware I have are some beefier case fans, which will arrive later this week. Now to get an OS installed and configured. But that's a post for another day. Stay tuned for part 3!
 
 
